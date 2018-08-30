@@ -1,9 +1,3 @@
----
-title: Scrapy框架之爬取城市房价
-tags: 爬虫系列
-categories: Python
-date: 2018-08-30 15:55:09
----
 
 ![](http://p20tr36iw.bkt.clouddn.com/py_scrapy_cqhouse.png)
 
